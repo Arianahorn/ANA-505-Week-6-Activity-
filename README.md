@@ -2,4 +2,4 @@
 Algorithms 
 SVM accuracy: ?%
 K Means accuracy: ?%
-C50 accuracy: ?% 
+C50 accuracy: 91.1%
